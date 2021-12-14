@@ -64,7 +64,7 @@ function extractClass(exported: any): HelpBaseDerived {
   return exported && exported.default ? exported.default : exported
 }
 
-export function getHelpClass(config: IConfig, defaultClass = '@oclif/plugin-help'): HelpBaseDerived {
+export function getHelpClass(config: IConfig, defaultClass = '@oclif/help'): HelpBaseDerived {
   const pjson = config.pjson
   const configuredClass = pjson && pjson.oclif &&  pjson.oclif.helpClass
 
@@ -82,6 +82,6 @@ export function getHelpClass(config: IConfig, defaultClass = '@oclif/plugin-help
     const exported = require(defaultModulePath)
     return extractClass(exported) as HelpBaseDerived
   } catch (error) {
-    throw new Error(`Could not load a help class, consider installing the @oclif/plugin-help package, failed with message:\n${error.message}`)
+    throw new Error(`Could not load a help class, consider installing the @oclif/help package, failed with message:\n${error.message}`)
   }
 }

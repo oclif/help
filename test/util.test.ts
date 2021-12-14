@@ -36,7 +36,7 @@ describe('util', () => {
       test
       .it('throws an error when failing to load the default help class', () => {
         delete config.pjson.oclif.helpClass
-        expect(() => getHelpClass(config, 'does-not-exist-default-plugin')).to.throw('Could not load a help class, consider installing the @oclif/plugin-help package, failed with message:')
+        expect(() => getHelpClass(config, 'does-not-exist-default-plugin')).to.throw('Could not load a help class, consider installing the @oclif/help package, failed with message:')
       })
 
       test
