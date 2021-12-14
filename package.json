@@ -66,8 +66,5 @@
     "pretest": "yarn build --noEmit && tsc -p test --noEmit"
   },
   "types": "./lib/index.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/oclif/help.git"
-  }
+  "repository": "oclif/help"
 }
