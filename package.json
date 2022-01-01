@@ -18,7 +18,7 @@
   "devDependencies": {
     "@oclif/command": "^1.8.13",
     "@oclif/dev-cli": "1.26.9",
-    "@oclif/plugin-legacy": "1.2.6",
+    "@oclif/plugin-legacy": "1.2.7",
     "@oclif/plugin-plugins": "1.10.10",
     "@oclif/test": "1.2.9",
     "@types/chai": "^4.1.7",
