@@ -16,7 +16,7 @@
     "wrap-ansi": "^6.2.0"
   },
   "devDependencies": {
-    "@oclif/command": "^1.8.13",
+    "@oclif/command": "^1.8.22",
     "@oclif/dev-cli": "1.26.9",
     "@oclif/plugin-legacy": "1.2.6",
     "@oclif/plugin-plugins": "1.10.10",
