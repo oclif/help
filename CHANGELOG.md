@@ -1,17 +1,72 @@
-# Changelog
+## [1.0.7](https://github.com/oclif/help/compare/1.0.6...1.0.7) (2023-05-27)
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.0.1](https://github.com/oclif/help/compare/v1.0.0...v1.0.1) (2021-12-14)
+### Bug Fixes
+
+* **deps:** bump @oclif/config from 1.18.8 to 1.18.9 ([a8767a7](https://github.com/oclif/help/commit/a8767a751dd974333cdda31aaac0a1356f629471))
+
+
+
+## [1.0.6](https://github.com/oclif/help/compare/1.0.5...1.0.6) (2023-02-04)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/config from 1.18.6 to 1.18.8 ([e3da45c](https://github.com/oclif/help/commit/e3da45c8fbeae13b24be9ee37e22a938bcb12bbd))
+
+
+
+## [1.0.5](https://github.com/oclif/help/compare/1.0.4...1.0.5) (2022-12-31)
+
+
+### Bug Fixes
+
+* **deps:** bump json5 from 2.2.0 to 2.2.2 ([1730c53](https://github.com/oclif/help/commit/1730c53db449e6c19de5794b38f708c3eb87e7de))
+
+
+
+## [1.0.4](https://github.com/oclif/help/compare/1.0.3...1.0.4) (2022-11-12)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/config from 1.18.5 to 1.18.6 ([8d7b35f](https://github.com/oclif/help/commit/8d7b35f3577350a8f7688a1b19992b9baf6418b4))
+
+
+
+## [1.0.3](https://github.com/oclif/help/compare/1.0.2...1.0.3) (2022-10-08)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/config from 1.18.3 to 1.18.5 ([3bc6d6d](https://github.com/oclif/help/commit/3bc6d6dd41dc75c25dc5995e365f0827687cb8c5))
+
+
+
+## [1.0.2](https://github.com/oclif/help/compare/v1.0.1...1.0.2) (2022-10-01)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/errors from 1.3.5 to 1.3.6 ([820600d](https://github.com/oclif/help/commit/820600dd63083e9d7bd9c710b0e502d4979794c3))
+
+
+
+## [1.0.1](https://github.com/oclif/help/compare/v1.0.0...v1.0.1) (2021-12-14)
 
 
 ### Bug Fixes
 
 * update default help class ([e0cba21](https://github.com/oclif/help/commit/e0cba211f293088e7ddbac857b8ac939559b5854))
 
-## 1.0.0 (2021-12-13)
+
+
+# [1.0.0](https://github.com/oclif/help/compare/479d649901df42f44814923668e2526793ecb627...v1.0.0) (2021-12-13)
 
 
 ### Features
 
 * help utilities ([479d649](https://github.com/oclif/help/commit/479d649901df42f44814923668e2526793ecb627))
+
+
+
