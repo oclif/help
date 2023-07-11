@@ -1,3 +1,12 @@
+## [1.0.10](https://github.com/oclif/help/compare/1.0.9...1.0.10) (2023-07-11)
+
+
+### Bug Fixes
+
+* **deps:** bump semver from 5.7.1 to 5.7.2 ([7c2434f](https://github.com/oclif/help/commit/7c2434f3e0982ad69bef321103fe171fb8f16110))
+
+
+
 ## [1.0.9](https://github.com/oclif/help/compare/1.0.8...1.0.9) (2023-07-08)
 
 
