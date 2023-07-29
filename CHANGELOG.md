@@ -1,3 +1,12 @@
+## [1.0.14](https://github.com/oclif/help/compare/1.0.13...1.0.14) (2023-07-29)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/config from 1.18.14 to 1.18.15 ([98cdac2](https://github.com/oclif/help/commit/98cdac24dc794ceac96742585e4fc5e9a5cb4e55))
+
+
+
 ## [1.0.13](https://github.com/oclif/help/compare/1.0.12...1.0.13) (2023-07-22)
 
 
